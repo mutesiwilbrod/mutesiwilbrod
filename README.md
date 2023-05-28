@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mutesiwilbrod
-- 👀 I’m interested in python web development most especially django and flask frame works
-- 🌱 I’m currently learning non degree program of data science with python
+- 👀Full stack software engineer with knowledge in Data anlysis
+- 🌱 
 - 📫Reach me by email:willbrodmutesi@gmail.com
 
 <!---
